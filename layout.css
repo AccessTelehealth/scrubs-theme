@@ -1,0 +1,22 @@
+/* Dr Me Layout */
+
+@value iconSmall: 0.9rem;
+@value iconMedium: 1.125rem;
+@value iconLarge: 1.5rem;
+
+@value imageSmall: 3.6rem;
+@value imageMedium: 4.5rem;
+@value imageLarge: 6rem;
+
+@value borderWidth: 2px;
+@value borderRadius: 5px;
+@value barHeight: 3.7rem;
+
+@value space1: .325rem;
+@value space2: .65rem;
+@value space3: 1.3rem;
+
+@value z1: 1;
+@value z2: 2;
+@value z3: 3;
+@value z4: 4;
