@@ -10,10 +10,5 @@
 
 @value fontFamily: 'Source Sans Pro', sans-serif;
 
-@value normalFontSrc: 'fonts/SourceSansPro-Regular.woff';
-@value normalFontItalicSrc: 'fonts/SourceSansPro-RegularIt.woff';
 @value normalFontWeight: 500;
-
-@value boldFontSrc: 'fonts/SourceSansPro-Semibold.woff';
-@value boldFontItalicSrc: 'fonts/SourceSansPro-SemiboldIt.woff';
 @value boldFontWeight: 600;
