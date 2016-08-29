@@ -14,3 +14,5 @@
 
 @value normalFontWeight: 500;
 @value boldFontWeight: 600;
+
+@value letterSpacing: 0.06em;
