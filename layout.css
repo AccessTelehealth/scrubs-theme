@@ -8,7 +8,8 @@
 @value imageMedium: 4.5rem;
 @value imageLarge: 6rem;
 
-@value borderWidth: 2px;
+@value borderWidthSmall: 1px;
+@value borderWidthLarge: 2px;
 @value borderRadius: 5px;
 @value barHeight: 3.7rem;
 

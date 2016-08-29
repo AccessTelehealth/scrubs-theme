@@ -1,8 +1,10 @@
 /* Dr Me Type */
 
-@value h1: 1.5rem;
-@value h2: 1.125rem;
-@value h3: 0.9rem;
+@value h1: 2.167rem;
+@value h2: 1.5rem;
+@value h3: 1.333rem;
+@value h4: 1.167rem;
+@value h5: 1rem;
 
 @value lineHeight1: 1;
 @value lineHeight2: 1.25;
